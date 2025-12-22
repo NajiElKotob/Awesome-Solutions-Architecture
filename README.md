@@ -1,2 +1,2 @@
-# Awesome-Solutions-Architecture-
-Solutions Architecture
+# Solutions Architecture
+{Awesome Works in Progress}
