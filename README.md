@@ -18,6 +18,7 @@
 -----
 
 ## Architecture & Engineering Reference Frameworks
+* [TOGAF (The Open Group Architecture Framework)](https://www.opengroup.org/togaf) - opengroup.org | The TOGAF Standard, a standard of The Open Group, is a proven Enterprise Architecture methodology and framework used by the world’s leading organizations to improve business efficiency.
 
 -----
 
