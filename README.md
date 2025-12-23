@@ -11,6 +11,7 @@
 `What must the application do?`
 ## Application Design
 `How will the application be built?`
+* [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
 * [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
 
 ## Data Architecture
