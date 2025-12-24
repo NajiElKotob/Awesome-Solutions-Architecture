@@ -42,6 +42,12 @@
 * System workflows
 * User and system interactions
 
+### Rule Model
+`What rules govern system behavior?`
+* Business rules
+* Validation rules
+* Decision logic
+
 ## Application Design
 `How will the application be built?`
 * [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
