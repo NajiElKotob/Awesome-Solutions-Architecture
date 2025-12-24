@@ -66,12 +66,19 @@
 ## Application Design
 `How will the application be built?`
 
+* [UI/UX](https://goodui.org/) - goodui.org
 
+-----
 
 ## Data Architecture
 `What data is needed, where does it come from, and how is it structured and stored?`
+
+-----
+
 ## Integration Architecture
 `How does the application communicate with other systems and services?`
+
+-----
 
 ## Infrastructure & Security
 `Where will the application run, and how is it protected and secured?`
