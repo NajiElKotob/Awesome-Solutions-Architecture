@@ -15,6 +15,7 @@
 * Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
 * Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
 * Brainstorming – Generate ideas and explore possible solution directions.
+  - [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
 * Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
 * Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
 * Questionnaires & Surveys – Collect structured input from a large audience efficiently.
@@ -41,6 +42,8 @@
 * Business processes
 * System workflows
 * User and system interactions
+* Use case
+  - [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
 
 ### Rule Model
 `What rules govern system behavior?`
@@ -62,8 +65,8 @@
 
 ## Application Design
 `How will the application be built?`
-* [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
-* [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
+
+
 
 ## Data Architecture
 `What data is needed, where does it come from, and how is it structured and stored?`
