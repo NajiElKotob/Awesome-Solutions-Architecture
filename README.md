@@ -7,6 +7,8 @@
 * [14 Common Reasons Software Projects Fail (And How To Avoid Them)](https://www.forbes.com/councils/forbestechcouncil/2020/03/31/14-common-reasons-software-projects-fail-and-how-to-avoid-them/) - forbes.com | 2022
 
 ## Business Analysis
+`Why is this solution needed, and what business problem does it solve?`
+
 ## Application Analysis
 `What must the application do?`
 ## Application Design
