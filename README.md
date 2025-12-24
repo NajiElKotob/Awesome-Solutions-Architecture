@@ -36,6 +36,12 @@
 
 ## Application Analysis
 `What must the application do?`
+### Process Model
+`What activities happen, and in what order?`
+* Business processes
+* System workflows
+* User and system interactions
+
 ## Application Design
 `How will the application be built?`
 * [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
