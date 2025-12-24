@@ -19,6 +19,8 @@
 ## Data Architecture
 `What data is needed, where does it come from, and how is it structured and stored?`
 ## Integration Architecture
+`How does the application communicate with other systems and services?`
+
 ## Infrastructure & Security
 
 -----
