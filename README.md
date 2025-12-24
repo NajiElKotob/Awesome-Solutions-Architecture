@@ -17,6 +17,7 @@
 * [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
 
 ## Data Architecture
+`What data is needed, where does it come from, and how is it structured and stored?`
 ## Integration Architecture
 ## Infrastructure & Security
 
