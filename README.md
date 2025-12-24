@@ -30,3 +30,8 @@
 * [miro](https://miro.com/) - miro.com | Get from brainstorm to breakthrough with Miro Where teams and AI ideate, plan, and build the right things faster 
 * [Excalidraw](https://excalidraw.com/) - excalidraw.com
 * [Lucidchart](https://www.lucidchart.com/) - lucidchart.com
+
+-----
+
+## YouTube 📺
+* [Software Architecture Monday](https://www.youtube.com/@markrichards5014) - Software Architecture Monday with Mark Richards is a free software architecture channel containing 10 minute videos about some aspect of software architecture. 
