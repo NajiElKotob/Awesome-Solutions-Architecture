@@ -1,7 +1,7 @@
 # Solutions Architecture
 {Awesome Works in Progress}
 
-## What!
+## Before We Design Anything!
 `Why do software projects fail, and what should we learn before designing a solution?`
 * [Software Development Failures](https://direct.mit.edu/books/monograph/3815/Software-Development-Failures) - mit.edu
 * [MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction](https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/) - forbes.com | 2025
