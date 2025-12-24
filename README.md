@@ -48,6 +48,12 @@
 * Validation rules
 * Decision logic
 
+### Data Model
+`What data does the system manage?`
+* Entities
+* Attributes
+* Relationships
+
 ## Application Design
 `How will the application be built?`
 * [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
