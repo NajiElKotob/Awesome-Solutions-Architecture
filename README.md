@@ -22,7 +22,7 @@
 `How does the application communicate with other systems and services?`
 
 ## Infrastructure & Security
-
+`Where will the application run, and how is it protected and secured?`
 -----
 
 ## Architecture & Engineering Reference Frameworks
