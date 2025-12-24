@@ -9,6 +9,17 @@
 
 ## Business Analysis
 `Why is this solution needed, and what business problem does it solve?`
+* Document Analysis – Review existing documents to understand business context, rules, and constraints.
+* Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
+* Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
+* Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
+* Brainstorming – Generate ideas and explore possible solution directions.
+* Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
+* Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
+* Questionnaires & Surveys – Collect structured input from a large audience efficiently.
+* Focus Groups – Gather collective feedback and perspectives from representative users.
+
+
 
 ## Application Analysis
 `What must the application do?`
