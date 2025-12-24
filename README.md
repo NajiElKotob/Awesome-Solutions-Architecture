@@ -50,9 +50,15 @@
 
 ### Data Model
 `What data does the system manage?`
-* Entities
-* Attributes
-* Relationships
+* Entity Relationship Diagram (ERD)
+  - Entities
+  - Attributes
+  - Relationships
+* Data Flow Diagrams (DFD)
+* Data Dictionary
+* State Table and State Diagram
+
+-----
 
 ## Application Design
 `How will the application be built?`
