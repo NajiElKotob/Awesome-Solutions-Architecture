@@ -9,6 +9,7 @@
 
 ## Business Analysis
 `Why is this solution needed, and what business problem does it solve?`
+### Techniques & Activities
 * Document Analysis – Review existing documents to understand business context, rules, and constraints.
 * Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
 * Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
@@ -19,6 +20,18 @@
 * Questionnaires & Surveys – Collect structured input from a large audience efficiently.
 * Focus Groups – Gather collective feedback and perspectives from representative users.
 
+### Scope Models
+`What is included in the solution, and what is explicitly excluded?`
+
+* In-Scope / Out-of-Scope – Clearly defines what the solution will and will not cover.
+* Context Diagram – Shows the system boundary and its interactions with external actors and systems.
+* High-Level Use Cases – Describes the main capabilities the system must support.
+* Business Process Scope – Identifies which business processes are affected by the solution.
+* Capability Map (High-Level) – Maps business capabilities included in the initiative.
+* Assumptions & Dependencies – Documents assumptions and external dependencies that affect scope.
+* Constraints – Highlights fixed limitations such as time, budget, technology, or regulation.
+
+-----
 
 
 ## Application Analysis
