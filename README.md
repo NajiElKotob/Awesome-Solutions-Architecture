@@ -2,6 +2,7 @@
 {Awesome Works in Progress}
 
 ## What!
+`Why do software projects fail, and what should we learn before designing a solution?`
 * [Software Development Failures](https://direct.mit.edu/books/monograph/3815/Software-Development-Failures) - mit.edu
 * [MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction](https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/) - forbes.com | 2025
 * [14 Common Reasons Software Projects Fail (And How To Avoid Them)](https://www.forbes.com/councils/forbestechcouncil/2020/03/31/14-common-reasons-software-projects-fail-and-how-to-avoid-them/) - forbes.com | 2022
@@ -23,6 +24,8 @@
 
 ## Infrastructure & Security
 `Where will the application run, and how is it protected and secured?`
+
+
 -----
 
 ## Architecture & Engineering Reference Frameworks
