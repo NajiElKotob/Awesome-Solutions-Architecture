@@ -63,6 +63,7 @@
 * [Excalidraw](https://excalidraw.com/) - excalidraw.com
 * [Lucidchart](https://www.lucidchart.com/) - lucidchart.com
 * [Storyboard That](https://www.storyboardthat.com/) - storyboardthat.com
+* [Figma](https://www.figma.com/) - figma.com | Figma lets you turn big ideas into real products. Brainstorm, design, and build with your team.
 
 -----
 
