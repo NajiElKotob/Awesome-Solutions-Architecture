@@ -26,6 +26,7 @@
 
 * In-Scope / Out-of-Scope – Clearly defines what the solution will and will not cover.
 * [Context Diagram](https://www.geeksforgeeks.org/system-design/context-diagrams/) – Shows the system boundary and its interactions with external actors and systems.
+  - [What is a context diagram? And how to create one (+ examples)](https://www.figma.com/resource-library/context-diagram/) - figma.com
 * High-Level Use Cases – Describes the main capabilities the system must support.
 * Business Process Scope – Identifies which business processes are affected by the solution.
 * Capability Map (High-Level) – Maps business capabilities included in the initiative.
