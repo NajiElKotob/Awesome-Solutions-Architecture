@@ -6,6 +6,7 @@
 * [Software Development Failures](https://direct.mit.edu/books/monograph/3815/Software-Development-Failures) - mit.edu
 * [MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction](https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/) - forbes.com | 2025
 * [14 Common Reasons Software Projects Fail (And How To Avoid Them)](https://www.forbes.com/councils/forbestechcouncil/2020/03/31/14-common-reasons-software-projects-fail-and-how-to-avoid-them/) - forbes.com | 2022
+* [Survivorship bias](https://www.warhistoryonline.com/war-articles/abraham-wald.html) - warhistoryonline.com
 
 ## Business Analysis
 `Why is this solution needed, and what business problem does it solve?`
