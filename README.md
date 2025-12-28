@@ -121,17 +121,30 @@
 
 ## Data Architecture
 `What data is needed, where does it come from, and how is it structured and stored?`
+* Data domains & entities
+* Data sources (internal / external)
+* Data models (logical / physical)
+* Data ownership & governance
+* Data quality & lifecycle
 
 -----
 
 ## Integration Architecture
 `How does the application communicate with other systems and services?`
-
+* Integrated systems & services
+* Integration patterns (API, events, files)
+* Data exchange & contracts
+* Error handling & resilience
+  
 -----
 
 ## Infrastructure & Security
 `Where will the application run, and how is it protected and secured?`
-
+* Deployment model & environments
+* Hosting & runtime platform
+* Identity & access management
+* Security controls & compliance
+* Availability & resilience
 
 -----
 
