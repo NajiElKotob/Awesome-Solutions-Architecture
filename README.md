@@ -80,6 +80,14 @@
 * Responsibilities of each component
 * Layered architecture
 
+
+### Interaction Design
+`Defines how components communicate`
+
+* Component interactions
+* Sequence diagrams (high-level)
+* Service boundaries
+
 ### UI / UX Design
 * [UI/UX](https://goodui.org/) - goodui.org
 * [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
