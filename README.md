@@ -93,7 +93,15 @@
 
 * Architectural patterns (Layered, MVC, MVVM, etc.)
 * Design principles (SOLID, separation of concerns)
-  
+
+
+### Architecture Decisions (ADRs)
+`Captures why design choices were made`
+
+* Alternatives considered
+* Trade-offs
+* Final decision
+
 ### UI / UX Design
 * [UI/UX](https://goodui.org/) - goodui.org
 * [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
