@@ -14,16 +14,17 @@
 * [10 Effective Success Criteria Examples for Successful Projects](https://www.indeed.com/career-advice/career-development/project-success-criteria-examples)
 
 ### Requirements Elicitation
-* Document Analysis – Review existing documents to understand business context, rules, and constraints.
-* Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
-* Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
-* Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
-* Brainstorming – Generate ideas and explore possible solution directions.
-  - [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
-* Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
-* Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
-* Questionnaires & Surveys – Collect structured input from a large audience efficiently.
-* Focus Groups – Gather collective feedback and perspectives from representative users.
+* [Elicitation Techniques](https://sites.nd.edu/businessanalysis/?page_id=321)
+  - Document Analysis – Review existing documents to understand business context, rules, and constraints.
+  - Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
+  - Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
+  - Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
+  - Brainstorming – Generate ideas and explore possible solution directions.
+    - [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
+  - Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
+  - Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
+  - Questionnaires & Surveys – Collect structured input from a large audience efficiently.
+  - Focus Groups – Gather collective feedback and perspectives from representative users.
 
 -----
 
