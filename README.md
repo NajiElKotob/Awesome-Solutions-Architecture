@@ -103,10 +103,15 @@
 * Final decision
 
 ### UI / UX Design
-* [UI/UX](https://goodui.org/) - goodui.org
-* [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
-* [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
-* [Material Design](https://m3.material.io/)
+`Defines how users interact with the system`
+* UX flows & navigation
+* UI guidelines & consistency
+* Accessibility considerations
+* References
+  - [UI/UX](https://goodui.org/) - goodui.org
+  - [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
+  - [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
+  - [Material Design](https://m3.material.io/)
 
 
 
