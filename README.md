@@ -10,7 +10,10 @@
 
 ## Business Analysis
 `Why is this solution needed, and what business problem does it solve?`
-### Techniques & Activities
+### Business Goals & Success Criteria
+* [10 Effective Success Criteria Examples for Successful Projects](https://www.indeed.com/career-advice/career-development/project-success-criteria-examples)
+
+### Requirements Elicitation
 * Document Analysis – Review existing documents to understand business context, rules, and constraints.
 * Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
 * Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
@@ -22,7 +25,9 @@
 * Questionnaires & Surveys – Collect structured input from a large audience efficiently.
 * Focus Groups – Gather collective feedback and perspectives from representative users.
 
-### Scope Models
+-----
+
+## Scope Models
 `What is included in the solution, and what is explicitly excluded?`
 
 * In-Scope / Out-of-Scope – Clearly defines what the solution will and will not cover.
