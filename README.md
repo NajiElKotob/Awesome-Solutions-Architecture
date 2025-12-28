@@ -73,6 +73,14 @@
 ## Application Design
 `How will the application be built?`
 
+### Logical Architecture
+`Defines the high-level structure of the system`
+
+* Major components/modules
+* Responsibilities of each component
+* Layered architecture
+
+### UI / UX Design
 * [UI/UX](https://goodui.org/) - goodui.org
 * [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
 * [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
