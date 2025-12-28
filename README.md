@@ -91,6 +91,7 @@
 -----
 
 ## Architecture & Engineering Reference Frameworks
+* [ISO/IEC/IEEE 42010:2022](https://www.iso.org/standard/74393.html)
 * [TOGAF (The Open Group Architecture Framework)](https://www.opengroup.org/togaf) - opengroup.org | The TOGAF Standard, a standard of The Open Group, is a proven Enterprise Architecture methodology and framework used by the world’s leading organizations to improve business efficiency.
   - [TOGAF in 10 Minutes 📺](https://www.youtube.com/watch?v=AihWJ3_klRQ) - Software Architecture Monday
 * [The Scrum Guide](https://scrumguides.org/scrum-guide.html) - scrumguides.org
