@@ -88,11 +88,21 @@
 * Sequence diagrams (high-level)
 * Service boundaries
 
+### Design Patterns & Principles
+`Defines how problems are solved consistently`
+
+* Architectural patterns (Layered, MVC, MVVM, etc.)
+* Design principles (SOLID, separation of concerns)
+  
 ### UI / UX Design
 * [UI/UX](https://goodui.org/) - goodui.org
 * [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
 * [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
 * [Material Design](https://m3.material.io/)
+
+
+
+
 
 -----
 
