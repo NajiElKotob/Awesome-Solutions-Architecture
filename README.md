@@ -49,6 +49,7 @@
 * Business processes
 * System workflows
 * User and system interactions
+* Data Flow Diagrams (DFD)
 * Use case
   - [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
 
@@ -64,7 +65,6 @@
   - Entities
   - Attributes
   - Relationships
-* Data Flow Diagrams (DFD)
 * Data Dictionary
 * State Table and State Diagram
 
