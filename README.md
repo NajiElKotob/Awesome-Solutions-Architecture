@@ -23,6 +23,8 @@
     - [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
   - Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
   - Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
+    - MVP (Minimum Viable Product) - Building a low-cost version of the software with only the core features,
+just enough to validate the idea with real users and get feedback.
   - Questionnaires & Surveys – Collect structured input from a large audience efficiently.
   - Focus Groups – Gather collective feedback and perspectives from representative users.
 
