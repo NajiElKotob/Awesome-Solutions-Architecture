@@ -172,5 +172,6 @@ just enough to validate the idea with real users and get feedback.
 ## YouTube 📺
 * [Software Architecture Monday](https://www.youtube.com/@markrichards5014) - Software Architecture Monday with Mark Richards is a free software architecture channel containing 10 minute videos about some aspect of software architecture.
 
-## Learning
+## Certifications
 * [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+* [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/business-analysis-pba)
