@@ -2,6 +2,7 @@
 {Awesome Works in Progress}
 
 ## Solutions Architect
+`A solutions architect creates the overall technical vision for a specific solution to a business problem.`
 * [What Is a Solutions Architect (and How Do I Become One)?](https://www.coursera.org/articles/solutions-architect?msockid=384df28e91e76f200fc5e7c790ff6e63) - coursera.org
   
 ## Before We Design Anything!
