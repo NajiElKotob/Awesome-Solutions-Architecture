@@ -57,11 +57,12 @@ just enough to validate the idea with real users and get feedback.
   - [What Is a Business Process and How Is It Used?](https://www.coursera.org/articles/business-process?msockid=384df28e91e76f200fc5e7c790ff6e63) - coursera.org
 * System workflows
   - [What is a workflow?](https://www.ibm.com/think/topics/workflow)
-* User and system interactions
-* Data Flow Diagrams (DFD)
-  - [What is a Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram0) - lucidchart.com
 * Use case
   - [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
+  - User–system interaction scenarios
+* Data Flow Diagrams (DFD)
+  - [What is a Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram0) - lucidchart.com
+
 
 ### Rule Model
 `What rules govern system behavior?`
