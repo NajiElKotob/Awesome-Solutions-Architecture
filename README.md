@@ -59,6 +59,7 @@ just enough to validate the idea with real users and get feedback.
 * System workflows
   - [What is a workflow?](https://www.ibm.com/think/topics/workflow)
 * Use case
+  - [How to Make a UML Sequence Diagram 📺](https://www.youtube.com/watch?v=pCK6prSq8aw)
   - [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
   - User–system interaction scenarios
 * Data Flow Diagrams (DFD)
