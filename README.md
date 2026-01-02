@@ -55,7 +55,7 @@ just enough to validate the idea with real users and get feedback.
 `What activities happen, and in what order?`
 * Business processes
   - [What Is a Business Process and How Is It Used?](https://www.coursera.org/articles/business-process?msockid=384df28e91e76f200fc5e7c790ff6e63) - coursera.org
-  - [BPMNs in Lucidchart 📺](https://www.youtube.com/watch?v=5Y5TqU8lbRU)
+  - [BPMNs in Lucidchart 📺](https://www.youtube.com/watch?v=5Y5TqU8lbRU) - Business Process Model and Notation is a graphical representation for specifying business processes in a business process model. 
 * System workflows
   - [What is a workflow?](https://www.ibm.com/think/topics/workflow)
 * Use case
