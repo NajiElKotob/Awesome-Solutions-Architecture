@@ -54,6 +54,7 @@ just enough to validate the idea with real users and get feedback.
 ### Process Model
 `What activities happen, and in what order?`
 * Business processes
+  - [What Is a Business Process and How Is It Used?](https://www.coursera.org/articles/business-process?msockid=384df28e91e76f200fc5e7c790ff6e63) - coursera.org
 * System workflows
 * User and system interactions
 * Data Flow Diagrams (DFD)
