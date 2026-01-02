@@ -1,6 +1,9 @@
 # Solutions Architecture
 {Awesome Works in Progress}
 
+## Solutions Architect
+* [What Is a Solutions Architect (and How Do I Become One)?](https://www.coursera.org/articles/solutions-architect?msockid=384df28e91e76f200fc5e7c790ff6e63) - coursera.org
+  
 ## Before We Design Anything!
 `Why do software projects fail, and what should we learn before designing a solution?`
 * [Software Development Failures](https://direct.mit.edu/books/monograph/3815/Software-Development-Failures) - mit.edu
