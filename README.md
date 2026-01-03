@@ -19,19 +19,19 @@
 
 ### Requirements Elicitation
 * [Elicitation Techniques](https://sites.nd.edu/businessanalysis/?page_id=321)
+  - Stakeholder Identification & Analysis – Identifying who the stakeholders are, their roles, influence, and interest.
   - Document Analysis – Review existing documents to understand business context, rules, and constraints.
-  - Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
-    - Stakeholder Identification & Analysis (Identifying who the stakeholders are, their roles, influence, and interest)
   - Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
+  - Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
+  - Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
   - Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
+  - Questionnaires & Surveys – Collect structured input from a large audience efficiently.
+  - Focus Groups – Gather collective feedback and perspectives from representative users.
   - Brainstorming – Generate ideas and explore possible solution directions.
     - [What is a flowchart?](https://www.youtube.com/watch?v=vBtGO9pXfrQ) - Lucid Software
-  - Observation (Job Shadowing) – Understand real workflows by watching users perform their tasks.
   - Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
     - MVP (Minimum Viable Product) - Building a low-cost version of the software with only the core features,
 just enough to validate the idea with real users and get feedback.
-  - Questionnaires & Surveys – Collect structured input from a large audience efficiently.
-  - Focus Groups – Gather collective feedback and perspectives from representative users.
 
 -----
 
