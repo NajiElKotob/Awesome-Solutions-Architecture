@@ -21,6 +21,7 @@
 * [Elicitation Techniques](https://sites.nd.edu/businessanalysis/?page_id=321)
   - Document Analysis – Review existing documents to understand business context, rules, and constraints.
   - Stakeholder Interviews – Gather insights, expectations, and pain points directly from key stakeholders.
+    - Stakeholder Identification & Analysis (Identifying who the stakeholders are, their roles, influence, and interest)
   - Business Rules & Constraints – Identify policies, regulations, and limitations that shape the solution.
   - Facilitated Workshops – Collaborative sessions to align stakeholders and clarify requirements.
   - Brainstorming – Generate ideas and explore possible solution directions.
