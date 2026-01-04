@@ -109,7 +109,7 @@ just enough to validate the idea with real users and get feedback.
 * Design principles (SOLID, separation of concerns)
 
 
-### Architecture Decisions (ADRs)
+### Architecture Decisions Records (ADRs)
 `Captures why design choices were made`
 
 * Alternatives considered
