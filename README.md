@@ -62,6 +62,7 @@ just enough to validate the idea with real users and get feedback.
 * Use case
   - [How to Make a UML Sequence Diagram 📺](https://www.youtube.com/watch?v=pCK6prSq8aw)
   - [UML use case diagrams 📺 ~13min](https://www.youtube.com/watch?v=4emxjxonNRI) - Lucid Software
+  - [Making a use case diagram: How-tos, templates, and tips](https://www.canva.com/online-whiteboard/use-case-diagram/) - canva.com
   - User–system interaction scenarios
 * Data Flow Diagrams (DFD)
   - [What is a Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram0) - lucidchart.com
