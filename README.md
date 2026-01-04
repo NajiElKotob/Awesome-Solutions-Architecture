@@ -32,7 +32,7 @@
   - Prototyping (Low-fidelity) – Validate ideas early using simple mockups or sketches.
     - MVP (Minimum Viable Product) - Building a low-cost version of the software with only the core features,
 just enough to validate the idea with real users and get feedback.
-
+* → `Requirements elicitation produces raw, unstructured inputs, such as: Business problems, Stakeholder needs, Pain points, Expectations, Constraints mentioned in discussions, Nice-to-haves, Conflicting requests`
 -----
 
 ## Scope Models
