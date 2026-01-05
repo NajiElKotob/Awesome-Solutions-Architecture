@@ -176,7 +176,8 @@ just enough to validate the idea with real users and get feedback.
 * [Excalidraw](https://excalidraw.com/) - excalidraw.com
 * [Lucidchart](https://www.lucidchart.com/) - lucidchart.com
 * [Storyboard That](https://www.storyboardthat.com/) - storyboardthat.com
-* [Canva](https://www.canva.com/) - canva.com
+* [Canva](https://www.canva.com/) - canva.com+
+* [Visio](https://www.microsoft.com/en-us/microsoft-365/visio/) - Transform the way you use and visualize data to bring your best ideas to life.
 * [Figma](https://www.figma.com/) - figma.com | Figma lets you turn big ideas into real products. Brainstorm, design, and build with your team.
   - [Figma Tutorial for Beginners 📺 ~13min](https://www.youtube.com/watch?v=jQ1sfKIl50E)
 * [Code Wiki (Google)](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
