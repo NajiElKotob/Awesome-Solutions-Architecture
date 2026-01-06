@@ -55,14 +55,11 @@ just enough to validate the idea with real users and get feedback.
 
 
 ### Execution Realities (The "Constraints")
-Assumptions & Dependencies: Text list of external factors.
-Usage: Used in Risk Logs to monitor project threats.
-Constraints: Text list of technical or budgetary "guardrails."
-Usage: Used by Lead Developers to choose the tech stack.
+* Assumptions & Dependencies and Constraints: They establish the external conditions, limitations, and guardrails that must be considered, ensuring that process models, system designs, timelines, and budgets remain realistic, feasible, and aligned with agreed boundaries.  → Requirements definition, solution design, project planning, and risk analysis.
 
 
 ### Validation (The "How It Looks")
-* Storyboard: A series of frames (sketch or wireframe) showing a user journey
+* Storyboard: A series of frames (sketch or wireframe) showing a user journey. → UX/UI Design & Frontend Development
 
 
 -----
@@ -145,9 +142,6 @@ Usage: Used by Lead Developers to choose the tech stack.
   - [WinUI 3 Gallery](https://github.com/microsoft/WinUI-Gallery)
   - [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
   - [Material Design](https://m3.material.io/)
-
-
-
 
 
 -----
