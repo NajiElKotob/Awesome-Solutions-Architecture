@@ -38,14 +38,32 @@ just enough to validate the idea with real users and get feedback.
 ## Scope Models
 `What is included in the solution, and what is explicitly excluded?`
 
-* [Context Diagram](https://www.geeksforgeeks.org/system-design/context-diagrams/) – Shows the system boundary and its interactions with external actors and systems.
+### Strategic Intent (The "Why")
+* Business Objective Model: Usually a diagram showing how high-level problems relate to business value. (Diagram*) → Project Charter & KPI definition
+* Goal Model: Text-heavy or a weighted diagram quantifying the objectives. (Text/Diagram*) → Success metric validation (QA/UAT)
+
+### System Boundaries (The "Where")
+* Ecosystem Map: A high-level visual of the world around your system. (Diagram) → Identifying integration touchpoints
+* Context Diagram:  Shows the system boundary and its interactions with external actors and systems. (Diagram/DFD-0*) → System Architecture & Data Flow design
   - [What is a context diagram? And how to create one (+ examples)](https://www.figma.com/resource-library/context-diagram/) - figma.com
-* In-Scope / Out-of-Scope – Clearly defines what the solution will and will not cover.
-* High-Level Use Cases – Describes the main capabilities the system must support.
-* Business Process Scope – Identifies which business processes are affected by the solution.
-* Capability Map (High-Level) – Maps business capabilities included in the initiative.
-* Assumptions & Dependencies – Documents assumptions and external dependencies that affect scope.
-* Constraints – Highlights fixed limitations such as time, budget, technology, or regulation.
+* In-Scope / Out-of-Scope: A definitive T-Chart table. → Change Management & Budgeting
+
+### Process & Functionality (The "What")
+* Business Process Scope: Business Process Scope is the clear definition of the boundaries of a business process, specifying where the process starts, where it ends, and what activities, roles, and systems are included or excluded. (Text/Flowchart*) → BPMN
+* Feature Model: Feature Model is a structured representation of system or process features. → Functional requirements; Use cases; User stories
+* Use Case Diagram: At the scope models phase, the Use Case Diagram is used to clarify who interacts with the system, identify the major system capabilities, and set clear functional boundaries. At this stage, the diagram remains high-level, focusing on overall interactions rather than internal logic; therefore, it is not detailed and not behavioral, and it avoids describing process flows or execution steps. → Detailed use case specifications, BPMN, solution or system design.
+
+
+### Execution Realities (The "Constraints")
+Assumptions & Dependencies: Text list of external factors.
+Usage: Used in Risk Logs to monitor project threats.
+Constraints: Text list of technical or budgetary "guardrails."
+Usage: Used by Lead Developers to choose the tech stack.
+
+
+### Validation (The "How It Looks")
+* Storyboard: A series of frames (sketch or wireframe) showing a user journey
+
 
 -----
 
