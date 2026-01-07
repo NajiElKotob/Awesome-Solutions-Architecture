@@ -143,7 +143,6 @@ just enough to validate the idea with real users and get feedback.
   - [Apple Design Resources](https://developer.apple.com/design/resources/) - apple.com
   - [Material Design](https://m3.material.io/)
 
-
 -----
 
 ## Data Architecture
@@ -193,6 +192,8 @@ just enough to validate the idea with real users and get feedback.
 * [Figma](https://www.figma.com/) - figma.com | Figma lets you turn big ideas into real products. Brainstorm, design, and build with your team.
   - [Figma Tutorial for Beginners 📺 ~13min](https://www.youtube.com/watch?v=jQ1sfKIl50E)
 * [Code Wiki (Google)](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/)
+### Vibe coding 
+* [Stitch](https://stitch.withgoogle.com/) - stitch.withgoogle.com | Transforming Ideas into UI designs for mobile and web applications
 
 -----
 
